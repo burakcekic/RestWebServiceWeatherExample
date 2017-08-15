@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+body{padding:0; margin:0;}
+.page{width:1202px; height:auto; margin:auto; background-color:rgba(255,255,255,0.9); border-top:1px solid #ccc;}
+.top{width:1202px;  height:auto; border-bottom:1px solid #999; }
+.head{color:#3399ff; width:width:1202px;  height:auto;  text-align:left;} 
+.watch{text-align:center; margin: 0 0 10px 0;  background: linear-gradient(#eee , #ddd, #eee );}
+.watch span{font-size: 72px; background: -webkit-linear-gradient(#333 , #999, #333 );-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.main{width:1200px; background-color:rgba(255,255,255,0.9); height:auto; float:left; border-left:1px solid #ccc;border-right:1px solid #ccc;}
+
+.list{width:1200px; height:auto; float:left; margin:10px 0 10px 0;}
+.listSelect{width:500px; margin:0 0 0 350px;}
+.listSelect form select{width:300px; height:40px;}
+.listSelect form input{width:100px; height:40px;}
+
+
+.weather{width:1200px; height:auto; margin:0 0 10px 0;}
+
+.country{width:1200px; margin:10px 0 0 0;  height:auto; float:left; }
+.tableCity{width:1200px; margin:10px 0 0 0;  height:auto; float:left; }
+.bolge div , .ege div{width:1176px ; margin:10px 0 10px 12px;  height:auto; float:left;}
+.bolge div ul li { float:left; list-style:none; width:186px; margin: 0 0 0 3px; color:#3399ff;}
+.bolge div div{width:50px; height:35px; background-color:#b3ffb3; margin:0; }
+
+
+
+
+
+
+
+.daily{width:300px; margin:10px	 10px 0 10px; border:1px solid #ccc; background-color:#e6f9ff; float:left;}
+.daily h2{color:#0080ff; margin-left:50px; }
+.border{ border-top:1px solid #80ffff;}
+
+.drc{width:300px; margin:10px 0 0 0; color:#ff3300;font-size:30px; }
+.drc p{margin: 0 0 0 100px; width:100px; }
+.rsm{width:150px; margin:0 0 0 75px;}
+.aciklama{width:150px;  margin:10px 0 0 75px; color:#ff9900; font-size:20px;}
+.nem{width:150px;  margin:10px 0 0 75px; color:#ff9900;font-size:20px;}
+.rzg{width:150px;  margin:10px 0 0 75px; color:#ff9900;font-size:20px;}
+.bsn{width:150px;  margin:10px 0 0 75px; color:#ff9900;font-size:20px;}
+.zmn{width:150px;  margin:10px 0 0 75px; color:#ff9900;font-size:20px;}
+
+.hourly{width:868px; margin:10px 0 0 0;  height:auto; background-color:#ddd; float:left; border:1px solid #ccc;  }
+.hourly ul{width:800px ; margin:10px 0 10px 34px;  height:auto; float:left;}
+.hourly ul li { float:left; list-style:none; width:100px; margin: 0 0 0 auto; color:#3399ff;}
+.hourly div{width:868px; margin:10px 0 0 0;  height:auto; background-color:#e6f9ff; float:left; }
+.hourly img{width:75px; background-color:#b3ffb3; margin:0; }
+
+.Gunler{width:868px; margin:10px 0 0 0;  height:auto;  float:left;}
+.GunlerForm form input{width:200px;  height:30px;  margin:0 0 0 64px;}
+
+.weeky{width:1178px; margin:10px 0 0 10px;  height:auto; background-color:#ccc; float:left; border:1px solid #ccc;  }
+.asil{width:1178px; height:auto;background-color:#cce6ff; }
+.baslik{width:1178px;  background-color:#eee;float:left; height:30px; margin:5px 0 10px 0;}
+.baslik div {color:#666; font-size:20px;}
+.asd{width:188px;  height:auto; margin:5px 0 10px 5px; background-color:#efe; border:1px solid #999; float:left;}
+.asdT{width:148px; margin:5px 0 0 10px;float:left; border-bottom:1px solid #ccc;}
+.asdTSp1{color:#0080ff; width:100px; font-size:20px;}
+.asdTSp2{color:#ff3333; width:120px; font-size:12px;}
+.weekyRsm{width:120px; float:left;margin: 5px 0 0 20px;}
+.weekydrc{width:100px;  float:left; margin: 5px 0 0 20px; color:#ff3300;font-size:30px;   }
+.weekyHumidity{width:100px; float:left; margin: 5px 0 0 20px; color:#999;font-size:2opx; }
+}
+
